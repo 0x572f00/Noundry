@@ -3,7 +3,7 @@
 * use [VoxEdit](https://www.voxedit.io/) to compose your Nouns or derivatives
 * export as .gltf to to make it metaverse ready
 
-[OpenSea](https://opensea.io/collection/sebastiens-noundry)
+[The original collection is available on OpenSea](https://opensea.io/collection/sebastiens-noundry)
 
 My Noundry is an experimental CC0 art-based project which includes an NFT collection of 128 characters that are build around the Nouns ecosystem.
 
